@@ -4,7 +4,7 @@ import { Magic } from "magic-sdk";
 import { newKitFromWeb3 } from '@celo/contractkit'
 import Web3 from 'web3'
 
-const magic = new Magic('pk_live_DCEE325C6958B804', {
+const magic = new Magic('pk_live_07BFC52E326230D5', {
   network: {
     rpcUrl: 'https://alfajores-forno.celo-testnet.org'
   }
